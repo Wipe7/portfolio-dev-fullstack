@@ -58,7 +58,7 @@ function SobreMim() {
                 <div className="absolute inset-0 rounded-xl bg-gradient-to-br from-indigo-600 to-purple-600 transform rotate-6"></div>
                 <img
                   src="/api/placeholder/400/400"
-                  alt="João Silva"
+                  alt="William Peixoto"
                   className="relative z-10 w-full h-full object-cover rounded-xl"
                 />
               </div>
